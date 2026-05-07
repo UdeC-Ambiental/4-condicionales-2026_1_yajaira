@@ -1,0 +1,5 @@
+Unnamed: 0,sitio,temperatura,categoria_temp,riesgo_termico,pH,clasificacion_pH,alerta_quimica,oxigeno,nivel_oxigeno,riesgo_biologico,diagnostico_final
+1,Quebrada Honda (Facatativá),19.4,Fría,No,6.3,Ácido,Sí,6.2,medio,Sin riesgo,Normal
+4,Río Villeta,28.3,Alta,Sí,8.7,Básico,Sí,6.1,medio,Sin riesgo,Normal
+5,Quebrada Cune (San Francisco),25.2,Moderada,No,6.0,Ácido,Sí,4.5,bajo,⚠ Riesgo biológico,Parcial
+9,Río Guayuriba (La Mesa),30.5,Alta,Sí,5.9,Ácido,Sí,4.8,bajo,⚠ Riesgo biológico,Total
